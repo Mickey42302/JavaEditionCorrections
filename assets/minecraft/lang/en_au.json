@@ -1,0 +1,15 @@
+{
+  "item.minecraft.tipped_arrow.effect.mundane": "Mundane Tipped Arrow",
+  "item.minecraft.tipped_arrow.effect.thick": "Thick Tipped Arrow",
+  "item.minecraft.tipped_arrow.effect.awkward": "Awkward Tipped Arrow",
+  "death.fell.accident.water": "%1$s fell out of the water",
+  "death.attack.arrow.player": "%1$s was shot by %2$s",
+  "death.attack.indirectMagic.player": "%1$s was killed by %2$s using magic",
+  "death.attack.mob.player": "%1$s was slain by %2$s",
+  "death.attack.player.player": "%1$s was slain by %2$s",
+  "death.attack.explosion.player.player": "%1$s was blown up by %2$s",
+  "death.attack.thorns.player": "%1$s was killed trying to hurt %2$s",
+  "death.attack.thrown.player": "%1$s was pummeled by %2$s",
+  "death.attack.trident.player": "%1$s was impaled by %2$s",
+  "death.attack.witherSkull.player": "%1$s was shot by a skull from %2$s"
+}
