@@ -3,6 +3,7 @@
   "item.minecraft.tipped_arrow.effect.thick": "Thick Tipped Arrow",
   "item.minecraft.tipped_arrow.effect.awkward": "Awkward Tipped Arrow",
   "death.fell.accident.water": "%1$s fell out of the water",
+  "death.fell.accident.ball": "%1$s fell while using an Ender Pearl",
   "death.attack.arrow.player": "%1$s was shot by %2$s",
   "death.attack.indirectMagic.player": "%1$s was killed by %2$s using magic",
   "death.attack.mob.player": "%1$s was slain by %2$s",
@@ -37,5 +38,9 @@
   "death.attack.stalagmite.item": "%1$s was impaled on a stalagmite while fighting %2$s using %3$s",
   "death.attack.starve.item": "%1$s starved to death while fighting %2$s using %3$s",
   "death.attack.sweetBerryBush.item": "%1$s was poked to death by a sweet berry bush while trying to escape %2$s using %3$s",
-  "death.attack.wither.item": "%1$s withered away while fighting %2$s using %3$s"
+  "death.attack.wither.item": "%1$s withered away while fighting %2$s using %3$s",
+  "commands.warden_spawn_tracker.clear.success.single": "The warden spawn tracker has been cleared.",
+  "commands.warden_spawn_tracker.set.success.single": "The warden spawn tracker has been updated.",
+  "commands.warden_spawn_tracker.clear.success.multiple": "The specified warden spawn trackers have been cleared.",
+  "commands.warden_spawn_tracker.set.success.multiple": "The specified warden spawn trackers have been updated."
 }
